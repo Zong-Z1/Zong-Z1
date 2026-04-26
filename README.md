@@ -8,4 +8,4 @@ Adjustable summary length
 Clean, minimal UI via Gradio
 Runs entirely in your browser — no account needed
 
-Try it on Hugging Face Spaces: [https://huggingface.co/spaces/ZongZ1/News-AI]
+Try it on Hugging Face Spaces: https://huggingface.co/spaces/ZongZ1/News-AI
