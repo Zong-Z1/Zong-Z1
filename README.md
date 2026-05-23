@@ -13,13 +13,15 @@ I'm currently developing a suite of AI-powered tools on Hugging Face Spaces focu
 ## 🤗 My Hugging Face Spaces
 
 ### 📰 News Summarizer *(baseline tool)*
+https://huggingface.co/spaces/ZongZ1/News_Summarizer
 My first Space and the foundation of this project. It fetches live news headlines via API and uses an AI model to produce clean, concise summaries — a useful starting point for staying on top of fast-moving stories without reading full articles.
 
 ### 🗺️ News Research Aid *(main project)*
+https://huggingface.co/spaces/ZongZ1/News-Research-Aid
 The more developed tool and the center of my ongoing research. Enter any political or international topic, and the AI surfaces current events around it. You choose which event to explore, and the tool then pulls multiple news reports from different sources and synthesizes them into a briefing — with a dedicated section surfacing how different outlets frame the same story. The goal isn't to give you one "neutral" summary; it's to help you notice that neutrality is rarely the whole picture. Useful for MUN research, debate prep, or anyone trying to read the news more critically.
 
-### ⚖️ Bias Detection Tool
-Focused specifically on framing analysis. Submit an article or claim and the AI identifies the underlying perspective, then lays out the strongest arguments on both sides of the issue. Inspired partly by tools like Ground News, and partly by the reality that international relations rarely has one correct interpretation.
+### ⚖️ News Perspective Navigator
+Goes beyond summarizing what the news says to showing why it says it that way. Pick any current event and the tool surfaces competing ideological framings, traces the trigger events and philosophical branches that shaped each perspective, and names what all the framings get wrong. Inspired by a 34-paper literature review finding that bias labels alone can collapse reader trust — so instead of labeling, this tool shows the trail of logic behind every framing and lets you decide.
 
 ---
 
