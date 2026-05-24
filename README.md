@@ -23,6 +23,8 @@ https://huggingface.co/spaces/ZongZ1/News-Research-Aid
 The more developed tool and the center of my ongoing research. Enter any political or international topic, and the AI surfaces current events around it. You choose which event to explore, and the tool then pulls multiple news reports from different sources and synthesizes them into a briefing — with a dedicated section surfacing how different outlets frame the same story. The goal isn't to give you one "neutral" summary; it's to help you notice that neutrality is rarely the whole picture. Useful for MUN research, debate prep, or anyone trying to read the news more critically.
 
 ### ⚖️ News Perspective Navigator
+https://huggingface.co/spaces/ZongZ1/Final-News-Analysis
+
 Goes beyond summarizing what the news says to showing why it says it that way. Pick any current event and the tool surfaces competing ideological framings, traces the trigger events and philosophical branches that shaped each perspective, and names what all the framings get wrong. Inspired by a 34-paper literature review finding that bias labels alone can collapse reader trust — so instead of labeling, this tool shows the trail of logic behind every framing and lets you decide.
 
 ---
